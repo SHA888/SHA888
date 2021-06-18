@@ -1,14 +1,27 @@
-# Hi there 👋 I' Kresna.
+<h1 align='center'>
+  Hi there 👋 I'm Kresna 👨‍💻
+</h1>
 
+<p align='center'>
+  An aspiring <b>Blockchain Developer</b> from <b>Indonesia</b>.
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/kresna-sucandra/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+  </a>&nbsp;&nbsp;
+  <a href="https://https://kresnasucandra.medium.com//">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
+  </a>
+</p>
 
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" width="50%" height="50%"></a>
+  </p>
