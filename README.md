@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  An aspiring <b>Substrate Blockchain Developer</b> from <b>Indonesia</b>.
+  Aspiring <b>Substrate Blockchain Developer</b> from <b>Indonesia</b>.
 </p>
 
 <p align='center'>
