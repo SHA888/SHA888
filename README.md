@@ -2,9 +2,9 @@
   Hi there 👋 I'm Kresna 👨‍💻
 </h1>
 
-<p align='center'>
+<h2 align='center'>
   Aspiring <b>Substrate Blockchain Developer</b>.
-</p>
+</h2>
 
 <p align='center'>
   
