@@ -27,5 +27,5 @@
   </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SHA888)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHA888" alt="SHA888" /></a>
+  </p>
