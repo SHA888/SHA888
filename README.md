@@ -25,3 +25,7 @@
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" width="50%" height="50%"></a>
   </p>
+
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/SHA888)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
