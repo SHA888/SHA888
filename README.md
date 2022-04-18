@@ -18,9 +18,9 @@
 </p>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&count_private=true&theme=dark" height="180px">
   </a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" width="50%" height="50%"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" height="180px"></a>
 </p>
 
 <p align="center">
