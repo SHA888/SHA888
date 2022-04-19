@@ -27,9 +27,20 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHA888" alt="SHA888" /></a>
   </p>
 
-## 🔧 Technologies & 📖 Languages
+## 🔧 Technologies
+### 📖 Languages
 
 <p align="left">
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
+
+### Database
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+        alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+        alt="mongodb" width="40" height="40"/></a>
 </p>
