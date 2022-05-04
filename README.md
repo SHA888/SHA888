@@ -22,7 +22,7 @@
   </a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" height="180px"></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&theme=dracula&locale=en" height="180px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHA888&theme=dark" height="180px" />
 </p>
 
 <p align="center">
