@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&count_private=true&theme=dark" height="180px"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" height="180px" alt="SHA888"></a>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SHA888&show_icons=true&count_private=true&theme=dark" height="180px"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" height="180px" alt="SHA888"></a> -->
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHA888&theme=dark" height="180px" alt="SHA888"></a>
 </p>
 <p align="center">
