@@ -4,7 +4,7 @@
 
 
 <h3 align='center'>
-  Aspiring <b>Substrate Rust Developer</b>.
+  <b>Long-life Learner</b>.
 </h3>
 
 <p align='center'>
