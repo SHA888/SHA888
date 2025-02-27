@@ -36,3 +36,4 @@
 ***WEB3/Blockchain:*** ![Substrate](https://img.shields.io/badge/Substrate-%23282828.svg?&style=flat-square&logo=parity-substrate&logoColor=white) ![ink](https://img.shields.io/badge/ink-%23593d88.svg?&style=flat-square&logo=ink&logoColor=white) ![Polkadot](https://img.shields.io/badge/Polkadot-%23E6007A.svg?&style=flat-square&logo=polkadot&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?&style=flat-square&logo=solidity&logoColor=white)
 
 ***Embedded/IoT/Edge:*** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+</div>
