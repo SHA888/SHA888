@@ -29,7 +29,7 @@
 <div align='left'>
 
 ## 🔧📖 Area of Interest
-***Languages:*** ![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=yellow) 
+***Languages:*** ![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=yellow) ![Mojo](https://img.shields.io/badge/Mojo-%23FF4C1F.svg?&style=flat-square&logo=mojo&logoColor=white)
 
 ***DS/AI/ML:*** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
