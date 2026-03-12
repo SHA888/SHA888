@@ -21,9 +21,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHA888&layout=compact&theme=dark" height="180px" alt="SHA888"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHA888&theme=dark" height="180px" alt="SHA888"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHA888" alt="SHA888" /></a>
-</p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SHA888)](https://github.com/SHA888/github-profile-trophy)
 </div>
 
 <div align='left'>
