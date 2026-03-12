@@ -4,7 +4,7 @@
 
 
 <h3 align='center'>
-  <b>VIBE CODER | Long-life Learner</b>.
+  <b>Long-life Learner</b>.
 </h3>
 
 <p align='center'>
