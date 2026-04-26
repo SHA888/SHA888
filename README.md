@@ -17,6 +17,7 @@ MY PROJECTS
 - 📊 [tidyecon](https://github.com/SHA888/tidyecon) — broom + modelsummary for Python econometrics (Python/uv)
 - 📈 [awald](https://github.com/awald-app/awald) — Open-source statistical computing desktop (Tauri 2 / SvelteKit / pyo3 / Polars)
 - 🕸️ [kawat](https://github.com/SHA888/kawat) — Rust reimplementation of trafilatura web content extraction
+- 🐟 [teri](https://github.com/SHA888/teri) - Rust-native Swarm Intelligence Prediction Engine (Rust)
 - 🗺️ [diagramma](https://github.com/SHA888/diagramma) — Conversation-aware diagram engine (Rust + WASM + TypeScript)
 - 🗓️ [balinese-calendar](https://github.com/SHA888/balinese-calendar) — Balinese Saka Calendar implementation (Rust)
 - 🌏 [nusantara-calendar](https://github.com/SHA888/nusantara-calendar) — Multi-tradition Nusantara calendar workspace (Rust)
