@@ -7,8 +7,9 @@
 I'm an intensivist/anesthesiologist from Bali, Indonesia 🏝️ 
 
 MY PROJECTS
+- ⚛️ [Reciprocal Acceleration Framework (RAF)](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary dynamics between Quantum Computing (QC) and Machine Learning (ML) 
 - 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
-- 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) - A decentralized Epistemic Contribution Graph (ECG) protocol
+- 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol
 - 🔧 [cargo-skill](https://github.com/SHA888/cargo-skill) — Cargo subcommand for deploying layered AI agent skills in Rust projects
 - 💡 [idep](https://github.com/idep-editor/idep) — Lightweight, Rust-native AI-powered IDE (local-first, POSIX, ~2GB RAM target)
 - 🐚 [modsh](https://github.com/modsh-shell/modsh) — POSIX-compatible modern shell with an AI-native context engine (Rust)
