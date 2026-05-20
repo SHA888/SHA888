@@ -9,6 +9,7 @@ I'm an intensivist/anesthesiologist from Bali, Indonesia 🏝️
 MY PROJECTS
 - ⚛️ [RAF](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary between Quantum Computing and Machine Learning (Python)
 - 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
+- 🔌 [SOKR](https://github.com/sokr-rs/sokr) — Sovereign Open Kernel Runtime (SOKR) (Rust)
 - 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol (Rust)
 - 🩼 [HealthWand](https://github.com/MedAIFort/healthwand) — An open-source framework for detecting, redacting, masking, and anonymizing sensitive healthcare PHI (Rust).
 - 🔧 [cargo-skill](https://github.com/SHA888/cargo-skill) — Cargo subcommand for deploying layered AI agent skills in Rust projects
