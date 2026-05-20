@@ -7,16 +7,17 @@
 I'm an intensivist/anesthesiologist from Bali, Indonesia 🏝️ 
 
 MY PROJECTS
-- ⚛️ [Reciprocal Acceleration Framework (RAF)](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary dynamics between Quantum Computing (QC) and Machine Learning (ML) 
+- ⚛️ [RAF](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary dynamics between Quantum Computing and Machine Learning (Python)
 - 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
-- 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol
+- 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol (Rust)
+- 🩼 [HealthWand](https://github.com/MedAIFort/healthwand) — An open-source framework for detecting, redacting, masking, and anonymizing sensitive healthcare PHI (Rust).
 - 🔧 [cargo-skill](https://github.com/SHA888/cargo-skill) — Cargo subcommand for deploying layered AI agent skills in Rust projects
-- 💡 [idep](https://github.com/idep-editor/idep) — Lightweight, Rust-native AI-powered IDE (local-first, POSIX, ~2GB RAM target)
+- 💡 [idep](https://github.com/idep-editor/idep) — Lightweight, Rust-native AI-powered IDE (local-first, POSIX, ~2GB RAM target) (Rust)
 - 🐚 [modsh](https://github.com/modsh-shell/modsh) — POSIX-compatible modern shell with an AI-native context engine (Rust)
 - 🏥 [clinical-rs](https://github.com/SHA888/clinical-rs) — Clinical data workspace: medical codes, MIMIC ETL, clinical tasks (Rust)
 - 🧬 [multiomics-rs](https://github.com/SHA888/multiomics-rs) — Bioinformatics parsing workspace, including GEO SOFT format (Rust)
 - 📐 [ferriprove](https://github.com/ferriprove/ferriprove) — Lean 4-compatible interactive theorem prover (Rust, 7-crate monorepo)
-- 📊 [tidyecon](https://github.com/SHA888/tidyecon) — broom + modelsummary for Python econometrics (Python/uv)
+- 📊 [tidyecon](https://github.com/SHA888/tidyecon) — broom + modelsummary for Python econometrics (Python)
 - 📈 [awald](https://github.com/awald-app/awald) — Open-source statistical computing desktop (Tauri 2 / SvelteKit / pyo3 / Polars)
 - 🕸️ [kawat](https://github.com/SHA888/kawat) — Rust reimplementation of trafilatura web content extraction
 - 🐟 [teri](https://github.com/SHA888/teri) - Rust-native Swarm Intelligence Prediction Engine (Rust)
