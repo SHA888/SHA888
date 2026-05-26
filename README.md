@@ -11,7 +11,7 @@ MY PROJECTS
 - 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
 - 🩺 [Substrate-First Clinical AI (SFClinAI)](https://github.com/SHA888/SFClinAI) - Substrate-First Clinical AI (Rust)
 - 🤓 [AGI/4](https://github.com/SHA888/agi4) - A conjunctive definition of Artificial General Intelligence (AGI) (Rust)
-- 🤖 [Beyond Chatbot](https://github.com/SHA888/beyond-chatbot) - A growing knowledge graph of the statistics, data science, and AI
+- 🤖 [Beyond Chatbot](https://github.com/SHA888/beyond-chatbot) - A growing knowledge graph of the statistics, data science, and AI (TS/LadyBugDB)
 - 🔌 [SOKR](https://github.com/sokr-rs/sokr) — Sovereign Open Kernel Runtime (SOKR) (Rust)
 - 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol (Rust)
 - 🩼 [HealthWand](https://github.com/MedAIFort/healthwand) — An open-source framework for detecting, redacting, masking, and anonymizing sensitive healthcare PHI (Rust).
