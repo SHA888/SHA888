@@ -12,10 +12,12 @@ MY PROJECTS
 - 🩺 [Substrate-First Clinical AI (SFClinAI)](https://github.com/SHA888/SFClinAI) - Substrate-First Clinical AI (Rust)
 - 🤓 [AGI/4](https://github.com/SHA888/agi4) - A conjunctive definition of Artificial General Intelligence (AGI) (Rust)
 - 🚫 [UNTRUST](https://github.com/SHA888/UNTRUST) - LLM Trust by Enforceability Notes (Rust)
+- 🤐 [KEEP](https://github.com/SHA888/KEEP) - A small trusted base that holds capabilities for an untrusted neural component (Python)
 - 🤖 [Beyond Chatbot](https://github.com/SHA888/beyond-chatbot) - A growing knowledge graph of the statistics, data science, and AI (TS/LadyBugDB)
 - 🔌 [SOKR](https://github.com/sokr-rs/sokr) — Sovereign Open Kernel Runtime (SOKR) (Rust)
 - 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol (Rust)
 - 🩼 [HealthWand](https://github.com/MedAIFort/healthwand) — An open-source framework for detecting, redacting, masking, and anonymizing sensitive healthcare PHI (Rust).
+- 🪴 [EVOSEAL](https://github.com/SHA888/EVOSEAL) - Evolutionary Self-Improving AI Agent
 - 🔧 [cargo-skill](https://github.com/SHA888/cargo-skill) — Cargo subcommand for deploying layered AI agent skills in Rust projects
 - 💡 [idep](https://github.com/idep-editor/idep) — Lightweight, Rust-native AI-powered IDE (local-first, POSIX, ~2GB RAM target) (Rust)
 - 🐚 [modsh](https://github.com/modsh-shell/modsh) — POSIX-compatible modern shell with an AI-native context engine (Rust)
