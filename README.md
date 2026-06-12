@@ -7,12 +7,15 @@
 I'm an intensivist/anesthesiologist from Bali, Indonesia 🏝️ 
 
 MY PROJECTS
-- ⚛️ [RAF](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary between Quantum Computing and Machine Learning (Python)
-- 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
+- 🗺️ [Septicomics](https://github.com/SHA888/septicomics) - Federated Sepsis Multi-Omics Knowledge Portal (Rust/Python/TypeScript)
 - 🩺 [Substrate-First Clinical AI (SFClinAI)](https://github.com/SHA888/SFClinAI) - Substrate-First Clinical AI (Rust)
-- 🤓 [AGI/4](https://github.com/SHA888/agi4) - A conjunctive definition of Artificial General Intelligence (AGI) (Rust)
+- 🏥 [clinical-rs](https://github.com/SHA888/clinical-rs) — Clinical data workspace: medical codes, MIMIC ETL, clinical tasks (Rust)
+- 🧬 [multiomics-rs](https://github.com/SHA888/multiomics-rs) — Bioinformatics parsing workspace, including GEO SOFT format (Rust)
 - 🚫 [UNTRUST](https://github.com/SHA888/UNTRUST) - LLM Trust by Enforceability Notes (Rust)
 - 🤐 [KEEP](https://github.com/SHA888/KEEP) - A small trusted base that holds capabilities for an untrusted neural component (Python)
+- ⚛️ [RAF](https://github.com/SHA888/RAF) — A systematic framework for accelerating co-evolutionary between Quantum Computing and Machine Learning (Python)
+- 🔭 [composable-future](https://github.com/SHA888/composable-future) — Formal theory of paradigmatic futures as composable algebraic structures (Python/Lean 4)
+- 🤓 [AGI/4](https://github.com/SHA888/agi4) - A conjunctive definition of Artificial General Intelligence (AGI) (Rust)
 - 🤖 [Beyond Chatbot](https://github.com/SHA888/beyond-chatbot) - A growing knowledge graph of the statistics, data science, and AI (TS/LadyBugDB)
 - 🔌 [SOKR](https://github.com/sokr-rs/sokr) — Sovereign Open Kernel Runtime (SOKR) (Rust)
 - 🚿 [apodokimos](https://github.com/apodokimos/apodokimos) — A decentralized Epistemic Contribution Graph (ECG) protocol (Rust)
@@ -21,16 +24,11 @@ MY PROJECTS
 - 🔧 [cargo-skill](https://github.com/SHA888/cargo-skill) — Cargo subcommand for deploying layered AI agent skills in Rust projects
 - 💡 [idep](https://github.com/idep-editor/idep) — Lightweight, Rust-native AI-powered IDE (local-first, POSIX, ~2GB RAM target) (Rust)
 - 🐚 [modsh](https://github.com/modsh-shell/modsh) — POSIX-compatible modern shell with an AI-native context engine (Rust)
-- 🏥 [clinical-rs](https://github.com/SHA888/clinical-rs) — Clinical data workspace: medical codes, MIMIC ETL, clinical tasks (Rust)
-- 🧬 [multiomics-rs](https://github.com/SHA888/multiomics-rs) — Bioinformatics parsing workspace, including GEO SOFT format (Rust)
 - 📐 [ferriprove](https://github.com/ferriprove/ferriprove) — Lean 4-compatible interactive theorem prover (Rust, 7-crate monorepo)
 - 📊 [tidyecon](https://github.com/SHA888/tidyecon) — broom + modelsummary for Python econometrics (Python)
 - 📈 [awald](https://github.com/awald-app/awald) — Open-source statistical computing desktop (Tauri 2 / SvelteKit / pyo3 / Polars)
 - 🕸️ [kawat](https://github.com/SHA888/kawat) — Rust reimplementation of trafilatura web content extraction
 - 🐟 [teri](https://github.com/SHA888/teri) - Rust-native Swarm Intelligence Prediction Engine (Rust)
-- 🗺️ [diagramma](https://github.com/SHA888/diagramma) — Conversation-aware diagram engine (Rust + WASM + TypeScript)
-- 🗓️ [balinese-calendar](https://github.com/SHA888/balinese-calendar) — Balinese Saka Calendar implementation (Rust)
-- 🌏 [nusantara-calendar](https://github.com/SHA888/nusantara-calendar) — Multi-tradition Nusantara calendar workspace (Rust)
 
 ABOUT ME
 - 💡 Sharing, teaching, and discussing about clinical informatics, systems programming, and applying computation to medicine and traditional knowledge
