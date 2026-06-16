@@ -7,7 +7,8 @@
 I'm an intensivist/anesthesiologist from Bali, Indonesia 🏝️ 
 
 MY PROJECTS
-- 🗺️ [Septicomics](https://github.com/SHA888/septicomics) - Federated Sepsis Multi-Omics Knowledge Portal (Rust/Python/TypeScript)
+- 🗺️ [MedOverflow](https://github.com/SHA888/medoverflow) - A credential-gated, durable Q&A corpus for clinician-engineer hybrids (Rust/Python/TypeScript)
+- 🦠 [Septicomics](https://github.com/SHA888/septicomics) - Federated Sepsis Multi-Omics Knowledge Portal (Rust/Python/TypeScript)
 - 🔢 [Critical Care Score](https://github.com/SHA888/critical-care-scores) - Critical Care Scores (Python/TypeScript)
 - 🩺 [Substrate-First Clinical AI (SFClinAI)](https://github.com/SHA888/SFClinAI) - Substrate-First Clinical AI (Rust)
 - 🏥 [clinical-rs](https://github.com/SHA888/clinical-rs) — Clinical data workspace: medical codes, MIMIC ETL, clinical tasks (Rust)
